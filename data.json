@@ -1,0 +1,701 @@
+[{
+    "id": 1,
+    "name": "El Porvenir Airport",
+    "code": "PVE",
+    "municipality": "El Porvenir",
+    "elevation": "17",
+    "region-code": "PA-KY"
+  }, {
+    "id": 2,
+    "name": "Giebelstadt Airport",
+    "code": "GHF",
+    "municipality": "Giebelstadt",
+    "elevation": "981",
+    "region-code": "DE-BY"
+  }, {
+    "id": 3,
+    "name": "Cauquira Airport",
+    "code": "CDD",
+    "municipality": "Cauquira",
+    "elevation": "21",
+    "region-code": "HN-GD"
+  }, {
+    "id": 4,
+    "name": "Pescara International Airport",
+    "code": "PSR",
+    "municipality": "Pescara",
+    "elevation": "48",
+    "region-code": "IT-65"
+  }, {
+    "id": 5,
+    "name": "Pelaneng Airport",
+    "code": "PEL",
+    "municipality": "Pelaneng",
+    "elevation": "7200",
+    "region-code": "LS-C"
+  }, {
+    "id": 6,
+    "name": "Chefornak Airport",
+    "code": "CYF",
+    "municipality": "Chefornak",
+    "elevation": "40",
+    "region-code": "US-AK"
+  }, {
+    "id": 7,
+    "name": "Yinchuan Hedong International Airport",
+    "code": "INC",
+    "municipality": "Yinchuan",
+    "elevation": null,
+    "region-code": "CN-64"
+  }, {
+    "id": 8,
+    "name": "Jiansanjiang Airport",
+    "code": "JSJ",
+    "municipality": "Jiansanjiang",
+    "elevation": null,
+    "region-code": "CN-23"
+  }, {
+    "id": 9,
+    "name": "St Leonard Airport",
+    "code": "YSL",
+    "municipality": "St Leonard",
+    "elevation": "793",
+    "region-code": "CA-NB"
+  }, {
+    "id": 10,
+    "name": "Hawthorne Industrial Airport",
+    "code": "HTH",
+    "municipality": "Hawthorne",
+    "elevation": "4215",
+    "region-code": "US-NV"
+  }, {
+    "id": 11,
+    "name": "Nyngan Airport",
+    "code": "NYN",
+    "municipality": null,
+    "elevation": "569",
+    "region-code": "AU-NSW"
+  }, {
+    "id": 12,
+    "name": "Danilo Atienza Air Base",
+    "code": "SGL",
+    "municipality": "Cavite City",
+    "elevation": "8",
+    "region-code": "PH-CAV"
+  }, {
+    "id": 13,
+    "name": "Kuyol Airport",
+    "code": "KUX",
+    "municipality": null,
+    "elevation": "3290",
+    "region-code": "PG-WPD"
+  }, {
+    "id": 14,
+    "name": "Baise Youjiang Airport",
+    "code": "AEB",
+    "municipality": "Baise",
+    "elevation": "490",
+    "region-code": "CN-45"
+  }, {
+    "id": 15,
+    "name": "Cairns AAF (Fort Rucker) Air Field",
+    "code": "OZR",
+    "municipality": "Fort Rucker/Ozark",
+    "elevation": "301",
+    "region-code": "US-AL"
+  }, {
+    "id": 16,
+    "name": "Windarling Airport",
+    "code": "WRN",
+    "municipality": "Windarling Mine",
+    "elevation": "1502",
+    "region-code": "AU-WA"
+  }, {
+    "id": 17,
+    "name": "Ogdensburg International Airport",
+    "code": "OGS",
+    "municipality": "Ogdensburg",
+    "elevation": "297",
+    "region-code": "US-NY"
+  }, {
+    "id": 18,
+    "name": "Chkalovskiy Air Base",
+    "code": "CKL",
+    "municipality": "Moscow",
+    "elevation": "499",
+    "region-code": "RU-MOS"
+  }, {
+    "id": 19,
+    "name": "Wallal Airport",
+    "code": "WLA",
+    "municipality": "Wallal",
+    "elevation": null,
+    "region-code": "AU-WA"
+  }, {
+    "id": 20,
+    "name": "Barra do Corda Airport",
+    "code": "BDC",
+    "municipality": "Barra Do Corda",
+    "elevation": "509",
+    "region-code": "BR-MA"
+  }, {
+    "id": 21,
+    "name": "Pacific City State Airport",
+    "code": "PFC",
+    "municipality": "Pacific City",
+    "elevation": "5",
+    "region-code": "US-OR"
+  }, {
+    "id": 22,
+    "name": "Broken Bow Municipal Airport",
+    "code": "BBW",
+    "municipality": "Broken Bow",
+    "elevation": "2547",
+    "region-code": "US-NE"
+  }, {
+    "id": 23,
+    "name": "Dyess Air Force Base",
+    "code": "DYS",
+    "municipality": "Abilene",
+    "elevation": "1789",
+    "region-code": "US-TX"
+  }, {
+    "id": 24,
+    "name": "Dillon Airport",
+    "code": "DLN",
+    "municipality": "Dillon",
+    "elevation": "5241",
+    "region-code": "US-MT"
+  }, {
+    "id": 25,
+    "name": "Saratov Central Airport",
+    "code": "RTW",
+    "municipality": "Saratov",
+    "elevation": "499",
+    "region-code": "RU-SAR"
+  }, {
+    "id": 26,
+    "name": "Alfonso Bonilla Aragon International Airport",
+    "code": "CLO",
+    "municipality": "Cali",
+    "elevation": "3162",
+    "region-code": "CO-VAC"
+  }, {
+    "id": 27,
+    "name": "Presidente General Don Oscar D. Gestido International Airport",
+    "code": "RVY",
+    "municipality": "Rivera",
+    "elevation": "712",
+    "region-code": "UY-RV"
+  }, {
+    "id": 28,
+    "name": "Lackland Air Force Base",
+    "code": "SKF",
+    "municipality": "San Antonio",
+    "elevation": "691",
+    "region-code": "US-TX"
+  }, {
+    "id": 29,
+    "name": "Jamestown Regional Airport",
+    "code": "JMS",
+    "municipality": "Jamestown",
+    "elevation": "1500",
+    "region-code": "US-ND"
+  }, {
+    "id": 30,
+    "name": "Lashio Airport",
+    "code": "LSH",
+    "municipality": "Lashio",
+    "elevation": "2450",
+    "region-code": "MM-17"
+  }, {
+    "id": 31,
+    "name": "João Durval Carneiro Airport",
+    "code": "FEC",
+    "municipality": "Feira De Santana",
+    "elevation": "768",
+    "region-code": "BR-BA"
+  }, {
+    "id": 32,
+    "name": "Yellowstone Regional Airport",
+    "code": "COD",
+    "municipality": "Cody",
+    "elevation": "5102",
+    "region-code": "US-WY"
+  }, {
+    "id": 33,
+    "name": "Maré Airport",
+    "code": "MEE",
+    "municipality": "Maré",
+    "elevation": "141",
+    "region-code": "NC-U-A"
+  }, {
+    "id": 34,
+    "name": "Malam Airport",
+    "code": "MQO",
+    "municipality": "Malam",
+    "elevation": "126",
+    "region-code": "PG-WPD"
+  }, {
+    "id": 35,
+    "name": "Chinde Airport",
+    "code": "INE",
+    "municipality": "Chinde",
+    "elevation": "22",
+    "region-code": "MZ-Q"
+  }, {
+    "id": 36,
+    "name": "Injune Airport",
+    "code": "INJ",
+    "municipality": "Injune",
+    "elevation": "401",
+    "region-code": "AU-QLD"
+  }, {
+    "id": 37,
+    "name": "Ville Airport",
+    "code": "KDJ",
+    "municipality": "N'Djolé",
+    "elevation": "164",
+    "region-code": "GA-3"
+  }, {
+    "id": 38,
+    "name": "Iboki Airport",
+    "code": "IBI",
+    "municipality": "Iboki",
+    "elevation": "13",
+    "region-code": "PG-WBK"
+  }, {
+    "id": 39,
+    "name": "General Francisco Javier Mina International Airport",
+    "code": "TAM",
+    "municipality": "Tampico",
+    "elevation": "80",
+    "region-code": "MX-TAM"
+  }, {
+    "id": 40,
+    "name": "Lyon-Bron Airport",
+    "code": "LYN",
+    "municipality": "Lyon/Bron",
+    "elevation": "659",
+    "region-code": "FR-V"
+  }, {
+    "id": 41,
+    "name": "Rehoboth Airport",
+    "code": "REH",
+    "municipality": "Rehoboth Beach",
+    "elevation": "30",
+    "region-code": "US-DE"
+  }, {
+    "id": 42,
+    "name": "Gloucestershire Airport",
+    "code": "GLO",
+    "municipality": "Staverton",
+    "elevation": "101",
+    "region-code": "GB-ENG"
+  }, {
+    "id": 43,
+    "name": "Samaná El Catey International Airport",
+    "code": "AZS",
+    "municipality": "Samana",
+    "elevation": "30",
+    "region-code": "DO-20"
+  }, {
+    "id": 44,
+    "name": "Dongying Shengli Airport",
+    "code": "DOY",
+    "municipality": "Dongying",
+    "elevation": "15",
+    "region-code": "CN-37"
+  }, {
+    "id": 45,
+    "name": "Port Alsworth Airport",
+    "code": "PTA",
+    "municipality": "Port Alsworth",
+    "elevation": "280",
+    "region-code": "US-AK"
+  }, {
+    "id": 46,
+    "name": "Gan International Airport",
+    "code": "GAN",
+    "municipality": "Gan",
+    "elevation": "6",
+    "region-code": "MV-01"
+  }, {
+    "id": 47,
+    "name": "Defiance Memorial Airport",
+    "code": "DFI",
+    "municipality": "Defiance",
+    "elevation": "707",
+    "region-code": "US-OH"
+  }, {
+    "id": 48,
+    "name": "Kaédi Airport",
+    "code": "KED",
+    "municipality": "Kaédi",
+    "elevation": "66",
+    "region-code": "MR-04"
+  }, {
+    "id": 49,
+    "name": "Midland Airpark",
+    "code": "MDD",
+    "municipality": "Midland",
+    "elevation": "2803",
+    "region-code": "US-TX"
+  }, {
+    "id": 50,
+    "name": "Bambari Airport",
+    "code": "BBY",
+    "municipality": "Bambari",
+    "elevation": "1549",
+    "region-code": "CF-UK"
+  }, {
+    "id": 51,
+    "name": "Gore Bay Manitoulin Airport",
+    "code": "YZE",
+    "municipality": "Gore Bay",
+    "elevation": "635",
+    "region-code": "CA-ON"
+  }, {
+    "id": 52,
+    "name": "Abbse Airport",
+    "code": "EAB",
+    "municipality": "Abbse",
+    "elevation": "651",
+    "region-code": "YE-SN"
+  }, {
+    "id": 53,
+    "name": "Sher-Wood Airport",
+    "code": "PWD",
+    "municipality": "Plentywood",
+    "elevation": "2250",
+    "region-code": "US-MT"
+  }, {
+    "id": 54,
+    "name": "Forlì Airport",
+    "code": "FRL",
+    "municipality": "Forlì (FC)",
+    "elevation": "97",
+    "region-code": "IT-45"
+  }, {
+    "id": 55,
+    "name": "Yuncheng Guangong Airport",
+    "code": "YCU",
+    "municipality": "Yuncheng",
+    "elevation": "1242",
+    "region-code": "CN-61"
+  }, {
+    "id": 56,
+    "name": "Patos de Minas Airport",
+    "code": "POJ",
+    "municipality": "Patos De Minas",
+    "elevation": "2793",
+    "region-code": "BR-MG"
+  }, {
+    "id": 57,
+    "name": "The Ohio State University Airport - Don Scott Field",
+    "code": "OSU",
+    "municipality": "Columbus",
+    "elevation": "905",
+    "region-code": "US-OH"
+  }, {
+    "id": 58,
+    "name": "Warraber Island Airport",
+    "code": "SYU",
+    "municipality": "Sue Islet",
+    "elevation": "3",
+    "region-code": "AU-QLD"
+  }, {
+    "id": 59,
+    "name": "Indianapolis International Airport",
+    "code": "IND",
+    "municipality": "Indianapolis",
+    "elevation": "797",
+    "region-code": "US-IN"
+  }, {
+    "id": 60,
+    "name": "Capitán Av. German Quiroga G. Airport",
+    "code": "SRJ",
+    "municipality": "San Borja",
+    "elevation": "633",
+    "region-code": "BO-B"
+  }, {
+    "id": 61,
+    "name": "Maple Bay Seaplane Base",
+    "code": "YAQ",
+    "municipality": "Maple Bay",
+    "elevation": "0",
+    "region-code": "CA-BC"
+  }, {
+    "id": 62,
+    "name": "Decatur HI-Way Airfield",
+    "code": "DCR",
+    "municipality": "Decatur",
+    "elevation": "842",
+    "region-code": "US-IN"
+  }, {
+    "id": 63,
+    "name": "Bristol Airport",
+    "code": "BRS",
+    "municipality": "Bristol",
+    "elevation": "622",
+    "region-code": "GB-ENG"
+  }, {
+    "id": 64,
+    "name": "Esperadinha Airport",
+    "code": "BVR",
+    "municipality": "Brava Island",
+    "elevation": "64",
+    "region-code": "CV-S"
+  }, {
+    "id": 65,
+    "name": "W K Kellogg Airport",
+    "code": "BTL",
+    "municipality": "Battle Creek",
+    "elevation": "952",
+    "region-code": "US-MI"
+  }, {
+    "id": 66,
+    "name": "Terrace Bay Airport",
+    "code": "TCY",
+    "municipality": "Terrace Bay",
+    "elevation": "32",
+    "region-code": "NA-KU"
+  }, {
+    "id": 67,
+    "name": "Bradley International Airport",
+    "code": "BDL",
+    "municipality": "Hartford",
+    "elevation": "173",
+    "region-code": "US-CT"
+  }, {
+    "id": 68,
+    "name": "Tefé Airport",
+    "code": "TFF",
+    "municipality": "Tefé",
+    "elevation": "188",
+    "region-code": "BR-AM"
+  }, {
+    "id": 69,
+    "name": "Saint-Étienne-Bouthéon Airport",
+    "code": "EBU",
+    "municipality": "Saint-Étienne/Bouthéon",
+    "elevation": "1325",
+    "region-code": "FR-V"
+  }, {
+    "id": 70,
+    "name": "Ralph M Calhoun Memorial Airport",
+    "code": "TAL",
+    "municipality": "Tanana",
+    "elevation": "236",
+    "region-code": "US-AK"
+  }, {
+    "id": 71,
+    "name": "Gustavo Rizo Airport",
+    "code": "BCA",
+    "municipality": "Baracoa",
+    "elevation": "26",
+    "region-code": "CU-14"
+  }, {
+    "id": 72,
+    "name": "Barnwell Regional Airport",
+    "code": "BNL",
+    "municipality": "Barnwell",
+    "elevation": "246",
+    "region-code": "US-SC"
+  }, {
+    "id": 73,
+    "name": "Center Island Airport",
+    "code": "CWS",
+    "municipality": "Center Island",
+    "elevation": "115",
+    "region-code": "US-WA"
+  }, {
+    "id": 74,
+    "name": "Roseau Municipal Rudy Billberg Field",
+    "code": "ROX",
+    "municipality": "Roseau",
+    "elevation": "1060",
+    "region-code": "US-MN"
+  }, {
+    "id": 75,
+    "name": "Tuscaloosa Regional Airport",
+    "code": "TCL",
+    "municipality": "Tuscaloosa",
+    "elevation": "170",
+    "region-code": "US-AL"
+  }, {
+    "id": 76,
+    "name": "Zabol Airport",
+    "code": "ACZ",
+    "municipality": null,
+    "elevation": "1628",
+    "region-code": "IR-13"
+  }, {
+    "id": 77,
+    "name": "Surat Thani Airport",
+    "code": "URT",
+    "municipality": "Surat Thani",
+    "elevation": "20",
+    "region-code": "TH-84"
+  }, {
+    "id": 78,
+    "name": "Dothan Regional Airport",
+    "code": "DHN",
+    "municipality": "Dothan",
+    "elevation": "401",
+    "region-code": "US-AL"
+  }, {
+    "id": 79,
+    "name": "Fort Severn Airport",
+    "code": "YER",
+    "municipality": "Fort Severn",
+    "elevation": "48",
+    "region-code": "CA-ON"
+  }, {
+    "id": 80,
+    "name": "Marau Airport",
+    "code": "RUS",
+    "municipality": "Marau",
+    "elevation": null,
+    "region-code": "SB-GU"
+  }, {
+    "id": 81,
+    "name": "Camp Page Airport (A-306)",
+    "code": "QUN",
+    "municipality": "Chun Chon City",
+    "elevation": "245",
+    "region-code": "KR-42"
+  }, {
+    "id": 82,
+    "name": "Mahdia Airport",
+    "code": "MHA",
+    "municipality": "Mahdia",
+    "elevation": "300",
+    "region-code": "GY-PT"
+  }, {
+    "id": 83,
+    "name": "General Juan N Alvarez International Airport",
+    "code": "ACA",
+    "municipality": "Acapulco",
+    "elevation": "16",
+    "region-code": "MX-GRO"
+  }, {
+    "id": 84,
+    "name": "Karpathos Airport",
+    "code": "AOK",
+    "municipality": "Karpathos Island",
+    "elevation": "66",
+    "region-code": "GR-81"
+  }, {
+    "id": 85,
+    "name": "Omega Airport",
+    "code": "OMG",
+    "municipality": "Omega",
+    "elevation": "3346",
+    "region-code": "NA-KE"
+  }, {
+    "id": 86,
+    "name": "Wittman Regional Airport",
+    "code": "OSH",
+    "municipality": "Oshkosh",
+    "elevation": "808",
+    "region-code": "US-WI"
+  }, {
+    "id": 87,
+    "name": "Letfotar Airport",
+    "code": "MOM",
+    "municipality": "Moudjeria",
+    "elevation": "256",
+    "region-code": "MR-05"
+  }, {
+    "id": 88,
+    "name": "Okadama Airport",
+    "code": "OKD",
+    "municipality": "Sapporo",
+    "elevation": "25",
+    "region-code": "JP-01"
+  }, {
+    "id": 89,
+    "name": "DLF Airport",
+    "code": "DLF",
+    "municipality": "Del Rio",
+    "elevation": "1082",
+    "region-code": "US-TX"
+  }, {
+    "id": 90,
+    "name": "Aosta Airport",
+    "code": "AOT",
+    "municipality": "Aosta",
+    "elevation": "1791",
+    "region-code": "IT-23"
+  }, {
+    "id": 91,
+    "name": "Barinas Airport",
+    "code": "BNS",
+    "municipality": "Barinas",
+    "elevation": "615",
+    "region-code": "VE-E"
+  }, {
+    "id": 92,
+    "name": "Weihai Airport",
+    "code": "WEH",
+    "municipality": "Weihai",
+    "elevation": "145",
+    "region-code": "CN-37"
+  }, {
+    "id": 93,
+    "name": "Batom Airport",
+    "code": "BXM",
+    "municipality": "Batom-Papua Island",
+    "elevation": "576",
+    "region-code": "ID-PA"
+  }, {
+    "id": 94,
+    "name": "Lupin Airport",
+    "code": "YWO",
+    "municipality": "Lupin Mine",
+    "elevation": "1608",
+    "region-code": "CA-NU"
+  }, {
+    "id": 95,
+    "name": "Red Bluff Municipal Airport",
+    "code": "RBL",
+    "municipality": "Red Bluff",
+    "elevation": "352",
+    "region-code": "US-CA"
+  }, {
+    "id": 96,
+    "name": "Nushki Airport",
+    "code": "NHS",
+    "municipality": "Nushki",
+    "elevation": "3200",
+    "region-code": "PK-BA"
+  }, {
+    "id": 97,
+    "name": "Pathankot Airport",
+    "code": "IXP",
+    "municipality": "Pathankot",
+    "elevation": "1017",
+    "region-code": "IN-PB"
+  }, {
+    "id": 98,
+    "name": "Opuwa Airport",
+    "code": "OPW",
+    "municipality": "Opuwa",
+    "elevation": "3770",
+    "region-code": "NA-KU"
+  }, {
+    "id": 99,
+    "name": "Wamena Airport",
+    "code": "WMX",
+    "municipality": "Wamena-Papua Island",
+    "elevation": "5085",
+    "region-code": "ID-PA"
+  }, {
+    "id": 100,
+    "name": "Punta de Maisi Airport",
+    "code": "UMA",
+    "municipality": "Maisi",
+    "elevation": "3",
+    "region-code": "CU-14"
+  }]
